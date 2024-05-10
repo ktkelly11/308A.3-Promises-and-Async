@@ -1,0 +1,14 @@
+{
+  "name": "308a.3.1-promises-and-async",
+  "version": "1.0.0",
+  "description": "Promises lab",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
